@@ -1,7 +1,5 @@
 import React from 'react';
-import format from 'dateformat';
 import request from 'superagent';
-import cookie from 'react-cookie';
 import './Project.css';
 import { Button, Glyphicon,Grid, Row, Col } from 'react-bootstrap';
 

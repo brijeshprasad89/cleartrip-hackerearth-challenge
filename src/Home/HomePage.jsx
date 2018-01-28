@@ -1,6 +1,5 @@
 import React from 'react';
 import {IndexLink} from 'react-router';
-import cookie from 'react-cookie';
 import ProjectList from '../ProjectList/ProjectList.jsx';
 import request from 'superagent';
 import './HomePage.css';
